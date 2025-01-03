@@ -1,2 +1,1 @@
-# colab_notebooks
-My Colab notebooks.
+# My Colab notebooks
